@@ -1,4 +1,4 @@
 export default function HelloWorld(){
 
-    return <h1>Hello World Componenet</h1>
+    return <h1>DFU CASE INFO</h1>
 }
